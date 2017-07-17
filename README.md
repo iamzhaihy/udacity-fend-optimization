@@ -12,10 +12,10 @@ This a project for Udacity Front-end Nanodegree. My mission is to optimize the g
 - made images offline
 - optimized `pizzeria.jpg`
 - move all `<script>` to bottom
-- set media print of print.css
-- minified & inline style.css
-- minified perfmatters.js
-- use `async` when loading external js
+- set media `print` of `print.css`
+- minified & inline `style.css`
+- minified `perfmatters.js`
+- use `async` when loading external js files
 
 #### 60 frames per second
 - some changes in main.js (`changePizzaSizes()`)
