@@ -2,7 +2,7 @@
 
 ### What is this?
 
-This a project for Udacity Front-end Nanodegree. My mission is to optimize the given app. You can try the live demo [optimized mobile portfolio](https://iamzhaihy.github.io/udacity-fend-optimization/), and copy the link to [Pagespeed Insight](https://developers.google.com/speed/docs/insights/about)
+This a project for Udacity Front-end Nanodegree. My mission is to optimize the given app. You can try the live demo [optimized mobile portfolio](https://iamzhaihy.github.io/udacity-fend-optimization/), and copy the link to [Pagespeed Insight](https://developers.google.com/speed/docs/insights/)
 
 
 
