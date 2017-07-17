@@ -511,7 +511,8 @@ function updatePositions() {
   // use faster getElementsByClassName() method
   var items = document.getElementsByClassName('mover');
   // avoid declaring variables in the loop
-  var phase, top = document.body.scrollTop / 1250;
+  var phase;
+  var top = document.body.scrollTop / 1250;
   
   for (var i = 0; i < items.length; i++) {
     phase = Math.sin(top + i % 5);
