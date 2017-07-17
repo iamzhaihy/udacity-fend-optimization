@@ -6,10 +6,11 @@ This a project for Udacity Front-end Nanodegree. My mission is to optimize the g
 
 
 
-### Pagespeed Score
+
+### pt 1. Pagespeed Score
 The goal is to get a score higher than 90 on both mobile and desktop. 
 
-#### Here are changes that I made
+####Here are changes that I made
 - made images offline
 - optimized `pizzeria.jpg`
 - move all `<script>` to bottom
@@ -19,10 +20,12 @@ The goal is to get a score higher than 90 on both mobile and desktop.
 - use `async` when loading external js
 
 
-### 60 frames per second
+
+
+### pt 2. 60 frames per second
 The goal is to optimize `main.js` so the app can run at 60 fps
 
-#### Here are changes that I made
+####Here are changes that I made
 - optimized code structure in `changePizzaSizes()`
 - optimized code structure in line 476-481
 - use faster `getElementsByClassName()` in line 512
@@ -33,7 +36,6 @@ The goal is to optimize `main.js` so the app can run at 60 fps
 
 
 ### How to run it?
-
 All you need is to do is:
 
 1. Uncompress the zip file
