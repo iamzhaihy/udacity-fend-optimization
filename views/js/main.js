@@ -454,7 +454,7 @@ var resizePizzas = function(size) {
     // avoid declaring variables in loop
     var dx = determineDx(randomPizzaContainer[0], size);
     var newwidth = (randomPizzaContainer[0].offsetWidth + dx) + 'px';
-    
+    // Declaring the variable len in the initialization of the loop
     for (var i = 0, len = randomPizzaContainer; i < len; i++) {
       randomPizzaContainer[i].style.width = newwidth;
     }
