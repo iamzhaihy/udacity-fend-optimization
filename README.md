@@ -31,6 +31,8 @@ The goal is to optimize `main.js` so the app can run at 60 fps
 - use faster `getElementsByClassName()` in line 510
 - optimized code structure in `updatePositions()`
 - optimized the event listener (line 533-555)
+- use faster `getElementsByClassName()` in `changeSliderLabel()`
+- fixed some issues pointed out by awesome Udacity Reviewer
 
 
 
